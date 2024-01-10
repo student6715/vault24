@@ -1,1 +1,2 @@
 # vault24
+[[index]]

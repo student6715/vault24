@@ -1,4 +1,9 @@
 {
-  "accentColor": "",
-  "cssTheme": "Minimal"
+  "accentColor": "#cc7eb1",
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "interfaceFontFamily": "Helvetica Neue",
+  "baseFontSize": 14,
+  "monospaceFontFamily": "Source Code Pro",
+  "textFontFamily": "Hiragino Maru Gothic ProN"
 }
